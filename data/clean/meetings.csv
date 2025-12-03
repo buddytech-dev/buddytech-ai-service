@@ -1,0 +1,31 @@
+id,title,participants,date,discussion_points,actions,sentiment,main_contact,lead_id
+1,Reunião de apresentação inicial,Carlos Mendes; Equipe BuddyTech,2025-11-27 10:00:00,Apresentação da solução BuddyTech e integração com CRM,Enviar proposta detalhada,positive,Carlos Mendes,1
+2,Reunião de fechamento de contrato,Fernanda Lima; Equipe BuddyTech,2025-11-29 15:00:00,Discussão de suporte premium e assinatura de contrato,Formalizar contrato e iniciar onboarding,positive,Fernanda Lima,2
+3,Reunião de prospecção,João Almeida; Equipe BuddyTech,2025-11-20 09:00:00,Primeiro contato para entender necessidades,Agendar demonstração técnica,neutral,João Almeida,3
+4,Reunião de proposta,Ana Martins; Equipe BuddyTech,2025-11-22 14:00:00,Cliente pediu proposta detalhada com valores,Preparar orçamento e enviar,neutral,Ana Martins,4
+5,Reunião de feedback negativo,Pedro Santos; Equipe BuddyTech,2025-11-18 16:00:00,Cliente informou que optou por concorrente,Encerrar negociação,negative,Pedro Santos,5
+6,Reunião de planejamento de projeto,Mariana Costa; Equipe BuddyTech,2025-11-25 09:30:00,Definição de cronograma para implementação do suporte avançado,Enviar plano de projeto e cronograma,positive,Mariana Costa,6
+7,Reunião de dúvidas técnicas,Ricardo Silva; Equipe BuddyTech,2025-11-19 14:00:00,Cliente levantou dúvidas sobre compatibilidade da API,Agendar sessão técnica com engenheiro,neutral,Ricardo Silva,7
+8,Reunião de negociação de valores,Beatriz Rocha; Equipe BuddyTech,2025-11-23 11:00:00,Cliente solicitou revisão de valores da proposta,Preparar nova proposta com desconto,neutral,Beatriz Rocha,8
+9,Reunião de feedback de piloto,Lucas Pereira; Equipe BuddyTech,2025-11-26 16:30:00,Cliente relatou bons resultados no teste piloto,Formalizar contrato definitivo,positive,Lucas Pereira,9
+10,Reunião de reclamação,Sofia Lima; Equipe BuddyTech,2025-11-17 15:00:00,Cliente reclamou da demora no retorno de e-mails,Reforçar comunicação e definir SLA,negative,Sofia Lima,10
+11,Reunião de alinhamento técnico,Marcos Vinicius; Equipe BuddyTech,2025-11-21 10:00:00,Discussão sobre requisitos técnicos da integração,Enviar documentação de APIs,neutral,Marcos Vinicius,11
+12,Reunião de suporte premium,Laura Fernandes; Equipe BuddyTech,2025-11-24 15:00:00,Cliente confirmou contratação de suporte avançado,Agendar treinamento inicial,positive,Laura Fernandes,12
+13,Reunião de encerramento,Bruno Gomes; Equipe BuddyTech,2025-11-16 17:00:00,Cliente informou decisão por concorrente,Encerrar negociação,negative,Bruno Gomes,13
+14,Reunião de prospecção inicial,Carla Dias; Equipe BuddyTech,2025-11-22 12:00:00,Primeiro contato para apresentação da solução,Agendar demonstração,positive,Carla Dias,14
+15,Reunião de integração crm,Guilherme Almeida; Equipe BuddyTech,2025-11-25 14:00:00,Cliente solicitou integração com CRM,Enviar proposta técnica,neutral,Guilherme Almeida,15
+16,Reunião de feedback positivo,Isabela Nunes; Equipe BuddyTech,2025-11-27 16:00:00,Cliente elogiou suporte premium,Registrar depoimento,positive,Isabela Nunes,16
+17,Reunião de follow-up,Daniela Ribeiro; Equipe BuddyTech,2025-11-18 13:00:00,Cliente não respondeu contato anterior,Enviar novo e-mail,negative,Daniela Ribeiro,17
+18,Reunião de apresentação,Felipe Barros; Equipe BuddyTech,2025-11-20 10:00:00,Apresentação inicial da solução BuddyTech,Agendar reunião técnica,neutral,Felipe Barros,18
+19,Reunião de contrato,Aline Souza; Equipe BuddyTech,2025-11-23 15:00:00,Cliente confirmou assinatura de contrato,Formalizar onboarding,positive,Aline Souza,19
+20,Reunião de encerramento,Guilherme Oliveira; Equipe BuddyTech,2025-11-17 17:00:00,Cliente optou por concorrente,Encerrar negociação,negative,Guilherme Oliveira,20
+21,Reunião de agendamento,Mariana Ferreira; Equipe BuddyTech,2025-11-21 12:00:00,Agendamento de reunião de apresentação,Confirmar data,positive,Mariana Ferreira,21
+22,Reunião de integração,Thiago Cardoso; Equipe BuddyTech,2025-11-24 14:00:00,Cliente solicitou integração com CRM,Enviar documentação técnica,neutral,Thiago Cardoso,22
+23,Reunião de satisfação,Patrícia Gomes; Equipe BuddyTech,2025-11-26 16:00:00,Feedback positivo sobre suporte premium,Registrar depoimento,positive,Patrícia Gomes,23
+24,Reunião de follow-up,Rafael Santos; Equipe BuddyTech,2025-11-19 13:00:00,Cliente não respondeu follow-up,Enviar novo contato,negative,Rafael Santos,24
+25,Reunião de prospecção,Juliana Almeida; Equipe BuddyTech,2025-11-22 10:00:00,Primeiro contato via telefone,Agendar demonstração,neutral,Juliana Almeida,25
+26,Reunião de contrato,André Silva; Equipe BuddyTech,2025-11-25 15:00:00,Cliente confirmou assinatura de contrato,Formalizar onboarding,positive,André Silva,26
+27,Reunião de encerramento,Renata Costa; Equipe BuddyTech,2025-11-18 17:00:00,Cliente optou por concorrente,Encerrar negociação,negative,Renata Costa,27
+28,Reunião de prospecção,Fábio Ribeiro; Equipe BuddyTech,2025-11-20 12:00:00,Agendamento de reunião de apresentação,Confirmar data,positive,Fábio Ribeiro,28
+29,Reunião de integração,Sandra Lima; Equipe BuddyTech,2025-11-23 14:00:00,Cliente solicitou integração com CRM,Enviar proposta técnica,neutral,Sandra Lima,29
+30,Reunião de satisfação,Bruna Fernandes; Equipe BuddyTech,2025-11-26 16:00:00,Feedback positivo sobre suporte premium,Registrar depoimento,positive,Bruna Fernandes,30

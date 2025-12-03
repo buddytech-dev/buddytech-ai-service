@@ -1,0 +1,22 @@
+id,sender,recipient,subject,content,date,sentiment,lead_id
+1,carlos.mendes@techsolutions.com,vendas@buddytech.com,Pedido de integração,"Olá, gostaria de saber mais sobre como integrar a API BuddyTech ao nosso CRM.",2025-11-27 12:00:00,positive,1
+2,fernanda.lima@inovacorp.com,suporte@buddytech.com,Agradecimento,"Equipe BuddyTech, obrigada pelo suporte premium. Estamos muito satisfeitos com o serviço.",2025-11-29 16:00:00,positive,2
+3,joao.almeida@alphatech.com,vendas@buddytech.com,Primeiro contato,"Bom dia, gostaria de entender melhor como funciona a solução de vocês.",2025-11-20 10:00:00,neutral,3
+4,ana.martins@globalsoft.com,vendas@buddytech.com,Proposta detalhada,Precisamos de uma proposta mais detalhada com valores e prazos.,2025-11-22 15:00:00,neutral,4
+5,pedro.santos@nextgen.com,vendas@buddytech.com,Concorrência,Infelizmente optamos por uma solução concorrente. Obrigado pelo tempo.,2025-11-18 17:00:00,negative,5
+6,mariana.costa@dataworks.com,suporte@buddytech.com,Contrato fechado,Confirmo que o contrato foi assinado. Ansiosa para começar a implementação.,2025-11-25 11:30:00,positive,6
+7,ricardo.silva@cloudbridge.com,vendas@buddytech.com,Agendamento,Gostaria de agendar uma reunião de apresentação para semana que vem.,2025-11-19 11:00:00,positive,7
+8,beatriz.rocha@smartcorp.com,vendas@buddytech.com,Integração crm,Nosso time precisa de integração com CRM. Podem enviar documentação técnica?,2025-11-23 14:00:00,neutral,8
+9,lucas.pereira@visiontech.com,suporte@buddytech.com,Suporte premium,Estamos muito satisfeitos com o suporte premium. Parabéns à equipe!,2025-11-26 16:00:00,positive,9
+10,sofia.lima@quantumsoft.com,vendas@buddytech.com,Follow-up,Não tivemos retorno sobre nossa solicitação. Isso está nos preocupando.,2025-11-17 12:30:00,negative,10
+11,marcos.vinicius@nextwavesolutions.com,vendas@buddytech.com,Contato inicial,Gostaria de conhecer melhor os serviços oferecidos pela BuddyTech.,2025-11-21 09:40:00,neutral,11
+12,laura.fernandes@technova.com,suporte@buddytech.com,Confirmação,Confirmo que o contrato foi fechado e aguardamos a implementação.,2025-11-24 14:20:00,positive,12
+13,bruno.gomes@inovatech.com,vendas@buddytech.com,Concorrência,Decidimos seguir com outra empresa. Agradecemos a atenção.,2025-11-16 16:50:00,negative,13
+14,carla.dias@datasys.com,vendas@buddytech.com,Agendamento,Gostaria de marcar uma reunião para entender melhor a solução.,2025-11-22 11:10:00,positive,14
+15,guilherme.almeida@cloudsoft.com,vendas@buddytech.com,Integração,Precisamos de informações sobre integração com CRM.,2025-11-25 13:55:00,neutral,15
+16,isabela.nunes@smarttech.com,suporte@buddytech.com,Contrato,Estamos felizes com o suporte premium contratado.,2025-11-27 15:45:00,positive,16
+17,daniela.ribeiro@visioncorp.com,vendas@buddytech.com,Follow-up,Não recebemos retorno sobre nossa última solicitação.,2025-11-18 12:20:00,negative,17
+18,felipe.barros@quantumsolutions.com,vendas@buddytech.com,Primeiro contato,Gostaria de conhecer melhor os serviços da BuddyTech.,2025-11-20 09:35:00,neutral,18
+19,aline.souza@nexttech.com,suporte@buddytech.com,Contrato,Confirmo que o contrato foi assinado.,2025-11-23 14:15:00,positive,19
+20,guilherme.oliveira@datasoft.com,vendas@buddytech.com,Concorrência,Optamos por outra solução. Obrigado pela atenção.,2025-11-17 16:50:00,negative,20
+23,andressa.lima@cloudtech.com,vendas@buddytech.com,Integração,Nosso time precisa de integração com CRM. Podem enviar documentação técnica?,2025-11-23 13:55:00,neutral,50

@@ -1,0 +1,31 @@
+id,titulo,participantes,data,pontos_discutidos,acoes,sentimento
+1,Reunião de apresentação inicial,"Carlos Mendes; Equipe BuddyTech",2025-11-27T10:00:00,"Apresentação da solução BuddyTech e integração com CRM","Enviar proposta detalhada",positivo
+2,Reunião de fechamento de contrato,"Fernanda Lima; Equipe BuddyTech",2025-11-29T15:00:00,"Discussão de suporte premium e assinatura de contrato","Formalizar contrato e iniciar onboarding",positivo
+3,Reunião de prospecção,"João Almeida; Equipe BuddyTech",2025-11-20T09:00:00,"Primeiro contato para entender necessidades","Agendar demonstração técnica",neutro
+4,Reunião de proposta,"Ana Martins; Equipe BuddyTech",2025-11-22T14:00:00,"Cliente pediu proposta detalhada com valores","Preparar orçamento e enviar",neutro
+5,Reunião de feedback negativo,"Pedro Santos; Equipe BuddyTech",2025-11-18T16:00:00,"Cliente informou que optou por concorrente","Encerrar negociação",negativo
+6,Reunião de planejamento de projeto,"Mariana Costa; Equipe BuddyTech",2025-11-25T09:30:00,"Definição de cronograma para implementação do suporte avançado","Enviar plano de projeto e cronograma",positivo
+7,Reunião de dúvidas técnicas,"Ricardo Silva; Equipe BuddyTech",2025-11-19T14:00:00,"Cliente levantou dúvidas sobre compatibilidade da API","Agendar sessão técnica com engenheiro",neutro
+8,Reunião de negociação de valores,"Beatriz Rocha; Equipe BuddyTech",2025-11-23T11:00:00,"Cliente solicitou revisão de valores da proposta","Preparar nova proposta com desconto",neutro
+9,Reunião de feedback de piloto,"Lucas Pereira; Equipe BuddyTech",2025-11-26T16:30:00,"Cliente relatou bons resultados no teste piloto","Formalizar contrato definitivo",positivo
+10,Reunião de reclamação,"Sofia Lima; Equipe BuddyTech",2025-11-17T15:00:00,"Cliente reclamou da demora no retorno de e-mails","Reforçar comunicação e definir SLA",negativo
+11,Reunião de alinhamento técnico,"Marcos Vinicius; Equipe BuddyTech",2025-11-21T10:00:00,"Discussão sobre requisitos técnicos da integração","Enviar documentação de APIs",neutro
+12,Reunião de suporte premium,"Laura Fernandes; Equipe BuddyTech",2025-11-24T15:00:00,"Cliente confirmou contratação de suporte avançado","Agendar treinamento inicial",positivo
+13,Reunião de encerramento,"Bruno Gomes; Equipe BuddyTech",2025-11-16T17:00:00,"Cliente informou decisão por concorrente","Encerrar negociação",negativo
+14,Reunião de prospecção inicial,"Carla Dias; Equipe BuddyTech",2025-11-22T12:00:00,"Primeiro contato para apresentação da solução","Agendar demonstração",positivo
+15,Reunião de integração CRM,"Guilherme Almeida; Equipe BuddyTech",2025-11-25T14:00:00,"Cliente solicitou integração com CRM","Enviar proposta técnica",neutro
+16,Reunião de feedback positivo,"Isabela Nunes; Equipe BuddyTech",2025-11-27T16:00:00,"Cliente elogiou suporte premium","Registrar depoimento",positivo
+17,Reunião de follow-up,"Daniela Ribeiro; Equipe BuddyTech",2025-11-18T13:00:00,"Cliente não respondeu contato anterior","Enviar novo e-mail",negativo
+18,Reunião de apresentação,"Felipe Barros; Equipe BuddyTech",2025-11-20T10:00:00,"Apresentação inicial da solução BuddyTech","Agendar reunião técnica",neutro
+19,Reunião de contrato,"Aline Souza; Equipe BuddyTech",2025-11-23T15:00:00,"Cliente confirmou assinatura de contrato","Formalizar onboarding",positivo
+20,Reunião de encerramento,"Guilherme Oliveira; Equipe BuddyTech",2025-11-17T17:00:00,"Cliente optou por concorrente","Encerrar negociação",negativo
+21,Reunião de agendamento,"Mariana Ferreira; Equipe BuddyTech",2025-11-21T12:00:00,"Agendamento de reunião de apresentação","Confirmar data",positivo
+22,Reunião de integração,"Thiago Cardoso; Equipe BuddyTech",2025-11-24T14:00:00,"Cliente solicitou integração com CRM","Enviar documentação técnica",neutro
+23,Reunião de satisfação,"Patrícia Gomes; Equipe BuddyTech",2025-11-26T16:00:00,"Feedback positivo sobre suporte premium","Registrar depoimento",positivo
+24,Reunião de follow-up,"Rafael Santos; Equipe BuddyTech",2025-11-19T13:00:00,"Cliente não respondeu follow-up","Enviar novo contato",negativo
+25,Reunião de prospecção,"Juliana Almeida; Equipe BuddyTech",2025-11-22T10:00:00,"Primeiro contato via telefone","Agendar demonstração",neutro
+26,Reunião de contrato,"André Silva; Equipe BuddyTech",2025-11-25T15:00:00,"Cliente confirmou assinatura de contrato","Formalizar onboarding",positivo
+27,Reunião de encerramento,"Renata Costa; Equipe BuddyTech",2025-11-18T17:00:00,"Cliente optou por concorrente","Encerrar negociação",negativo
+28,Reunião de prospecção,"Fábio Ribeiro; Equipe BuddyTech",2025-11-20T12:00:00,"Agendamento de reunião de apresentação","Confirmar data",positivo
+29,Reunião de integração,"Sandra Lima; Equipe BuddyTech",2025-11-23T14:00:00,"Cliente solicitou integração com CRM","Enviar proposta técnica",neutro
+30,Reunião de satisfação,"Bruna Fernandes; Equipe BuddyTech",2025-11-26T16:00:00,"Feedback positivo sobre suporte premium","Registrar depoimento",positivo

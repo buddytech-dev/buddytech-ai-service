@@ -1,0 +1,54 @@
+id,cliente,valor_contrato,duracao_negociacao_dias,interacoes,sentimento_medio,status
+1,Tech Solutions Ltda,62116,55,11,positivo,negotiating
+2,Inovacorp,97192,62,19,negativo,won
+3,Alphatech,39610,43,8,positivo,prospect
+4,Globalsoft,96693,20,10,positivo,negotiating
+5,Nextgen Solutions,84505,27,25,positivo,lost
+6,Dataworks,45566,45,21,neutro,won
+7,Cloudbridge,68916,61,7,positivo,prospect
+8,Smartcorp,69369,67,15,positivo,negotiating
+9,Visiontech,46207,31,12,positivo,won
+10,Quantumsoft,87540,31,13,negativo,lost
+11,Nextwave Solutions,66726,46,19,neutro,prospect
+12,Technova,95971,35,8,negativo,won
+13,Inovatech,108073,41,8,negativo,lost
+14,Datasys,53693,69,14,positivo,prospect
+15,Cloudsoft,72592,58,7,negativo,negotiating
+16,Smarttech,61735,67,18,neutro,won
+17,Visioncorp,113573,62,15,negativo,lost
+18,Quantum Solutions,75114,69,15,positivo,prospect
+19,Nexttech,54241,58,25,neutro,won
+20,Datasoft,115056,65,9,neutro,lost
+21,Cloudworks,28935,66,14,neutro,prospect
+22,Smart Solutions,26425,61,23,neutro,negotiating
+23,Visiondata,71344,57,25,positivo,won
+24,Quantumtech,39180,20,11,positivo,lost
+25,Nextdata,43302,25,21,negativo,prospect
+26,Techbridge,108687,65,14,neutro,won
+27,Inova Solutions,26034,45,20,positivo,lost
+28,Databridge,61463,28,15,positivo,prospect
+29,Cloudnova,114367,55,16,neutro,negotiating
+30,Smartdata,38055,37,7,positivo,won
+31,Vision Solutions,76664,48,11,neutro,lost
+32,Quantumcorp,101986,65,20,negativo,prospect
+33,Nextbridge,100998,62,17,neutro,won
+34,Techdata,88977,62,20,positivo,lost
+35,Inovabridge,64562,44,22,positivo,prospect
+36,Dataworks,80885,42,25,neutro,negotiating
+37,Smartworks,119492,25,22,positivo,won
+38,Visiontech,38200,28,22,positivo,lost
+39,Quantumsoft,96914,38,8,neutro,prospect
+40,Nextsoft,20867,44,18,positivo,won
+41,Techcorp,88950,22,22,neutro,lost
+42,Inovadata,23081,62,17,neutro,prospect
+43,Datatech,77905,62,8,negativo,negotiating
+44,Cloudsolutions,100219,43,7,negativo,won
+45,Smartbridge,58939,24,14,neutro,lost
+46,Visiondata,93696,29,5,neutro,prospect
+47,Quantum Solutions,59385,35,21,neutro,won
+48,Nexttech,65122,65,24,neutro,lost
+49,Datasoft,20358,28,23,positivo,prospect
+50,Cloudtech,62580,59,24,negativo,negotiating
+51,OrphanCo,45000,39,12,neutro,lost
+52,ExternalSoft,72000,51,16,positivo,won
+53,LegacyData,28000,29,8,negativo,lost

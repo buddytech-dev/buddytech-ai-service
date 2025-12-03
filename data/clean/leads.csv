@@ -1,0 +1,51 @@
+id,client,contact,email,phone,status,last_interaction,notes,company_id
+1,Tech Solutions Ltda,Carlos Mendes,carlos.mendes@techsolutions.com,+5547999991234,negotiating,2025-11-27 11:45:00,Cliente interessado em integração com API BuddyTech.,72e728aa-c97d-5657-9803-4b0541184ccd
+2,Inovacorp,Fernanda Lima,fernanda.lima@inovacorp.com,+5511988885678,won,2025-11-29 15:20:00,Contrato assinado para suporte premium.,a7d722c7-4e56-5cf0-a5ea-6a939477e0ec
+3,Alphatech,João Almeida,joao.almeida@alphatech.com,+5521977771111,prospect,2025-11-20 09:30:00,Primeiro contato realizado via e-mail.,7bf072e6-923c-524e-9671-49ef125f97a1
+4,Globalsoft,Ana Martins,ana.martins@globalsoft.com,+5531966662222,negotiating,2025-11-22 14:10:00,Cliente pediu proposta detalhada.,1230c186-2f8e-5d52-ba45-c2c164f6b0a8
+5,Nextgen Solutions,Pedro Santos,pedro.santos@nextgen.com,+5541955553333,lost,2025-11-18 16:45:00,Cliente optou por concorrente.,4090f692-fd6f-5c35-a783-b7601dfdf711
+6,Dataworks,Mariana Costa,mariana.costa@dataworks.com,+5551944444444,won,2025-11-25 11:00:00,Contrato fechado para suporte avançado.,7b3bf4bd-1c5a-5507-8e1c-14b447520de4
+7,Cloudbridge,Ricardo Silva,ricardo.silva@cloudbridge.com,+5561933335555,prospect,2025-11-19 10:20:00,Agendada reunião de apresentação.,2014747e-1ab9-5057-9b25-b8b2635a7528
+8,Smartcorp,Beatriz Rocha,beatriz.rocha@smartcorp.com,+5571922226666,negotiating,2025-11-23 13:50:00,Cliente solicitou integração com CRM.,6b888dff-13a3-5a2e-a93f-3f22f43520cf
+9,Visiontech,Lucas Pereira,lucas.pereira@visiontech.com,+5581911117777,won,2025-11-26 15:40:00,Contrato assinado para suporte premium.,7e28a992-503e-5bc3-9a17-a2e11cd56b8a
+10,Quantumsoft,Sofia Lima,sofia.lima@quantumsoft.com,+5591900008888,lost,2025-11-17 12:15:00,Cliente não respondeu follow-up.,66bb574f-1f64-5206-8f0e-46b6c70ec9ae
+11,Nextwave Solutions,Marcos Vinicius,marcos.vinicius@nextwavesolutions.com,+5501899999999,prospect,2025-11-21 09:30:00,Primeiro contato realizado via telefone.,97efbca8-1589-56b2-a70b-a23fa6fe7e48
+12,Technova,Laura Fernandes,laura.fernandes@technova.com,+5511888887777,won,2025-11-24 14:10:00,Contrato fechado para suporte avançado.,a993e186-ff6c-5c8d-a333-95880a82a92a
+13,Inovatech,Bruno Gomes,bruno.gomes@inovatech.com,+5521877776666,lost,2025-11-16 16:45:00,Cliente optou por concorrente.,d1bb8588-c54d-5e3e-8dcd-4b752baf74ef
+14,Datasys,Carla Dias,carla.dias@datasys.com,+5531866665555,prospect,2025-11-22 11:00:00,Agendada reunião de apresentação.,761f406c-dfae-5507-87c3-b0aa1127c5f7
+15,Cloudsoft,Guilherme Almeida,guilherme.almeida@cloudsoft.com,+5541855554444,negotiating,2025-11-25 13:50:00,Cliente solicitou integração com CRM.,080b18fc-54a6-5184-9c8c-c329ee9aac7b
+16,Smarttech,Isabela Nunes,isabela.nunes@smarttech.com,+5551844443333,won,2025-11-27 15:40:00,Contrato assinado para suporte premium.,c0770da6-fde0-5cc5-80c1-31ab463c6920
+17,Visioncorp,Daniela Ribeiro,daniela.ribeiro@visioncorp.com,+5561833332222,lost,2025-11-18 12:15:00,Cliente não respondeu follow-up.,b98db0be-30e4-5d12-a358-1ede7fd52621
+18,Quantum Solutions,Felipe Barros,felipe.barros@quantumsolutions.com,+5571822221111,prospect,2025-11-20 09:30:00,Primeiro contato realizado via e-mail.,8e706490-7727-57d7-b1ce-ac13120478ef
+19,Nexttech,Aline Souza,aline.souza@nexttech.com,+5581811110000,won,2025-11-23 14:10:00,Contrato fechado para suporte avançado.,139a0a42-2085-5db8-9dba-eaa786da6dbb
+20,Datasoft,Guilherme Oliveira,guilherme.oliveira@datasoft.com,+5591799999999,lost,2025-11-17 16:45:00,Cliente optou por concorrente.,995d9a7d-a1c7-52ab-b300-721ae01fcd8d
+21,Cloudworks,Mariana Ferreira,mariana.ferreira@cloudworks.com,+5501788888888,prospect,2025-11-21 11:00:00,Agendada reunião de apresentação.,b40f63db-3418-533c-afd6-119ef658cf3f
+22,Smart Solutions,Thiago Cardoso,thiago.cardoso@smartsolutions.com,+5511777777777,negotiating,2025-11-24 13:50:00,Cliente solicitou integração com CRM.,d2af1e23-1cee-5a58-82ae-15d56b18ecea
+23,Visiondata,Patrícia Gomes,patricia.gomes@visiondata.com,+5521766666666,won,2025-11-26 15:40:00,Contrato assinado para suporte premium.,ab47cf9f-314a-5415-bae5-720dc1a5ecf1
+24,Quantumtech,Rafael Santos,rafael.santos@quantumtech.com,+5531755555555,lost,2025-11-19 12:15:00,Cliente não respondeu follow-up.,3d8f4d77-f569-5127-85c5-19a3f51590ff
+25,Nextdata,Juliana Almeida,juliana.almeida@nextdata.com,+5541744444444,prospect,2025-11-22 09:30:00,Primeiro contato realizado via telefone.,ece64e65-34c8-5bec-a527-5b2f4b616c27
+26,Techbridge,André Silva,andre.silva@techbridge.com,+5551733333333,won,2025-11-25 14:10:00,Contrato fechado para suporte avançado.,61666c40-da51-585a-8a91-72ef3c154dfd
+27,Inova Solutions,Renata Costa,renata.costa@inovasolutions.com,+5561722222222,lost,2025-11-18 16:45:00,Cliente optou por concorrente.,2a276362-47c0-5f58-b7ef-24f5eb8bfd0f
+28,Databridge,Fábio Ribeiro,fabio.ribeiro@databridge.com,+5571711111111,prospect,2025-11-20 11:00:00,Agendada reunião de apresentação.,5802f72c-f112-5b6b-b79e-5f20e8750645
+29,Cloudnova,Sandra Lima,sandra.lima@cloudnova.com,+5581700000000,negotiating,2025-11-23 13:50:00,Cliente solicitou integração com CRM.,b55464e4-e8cf-5d55-89aa-3447ce932622
+30,Smartdata,Bruna Fernandes,bruna.fernandes@smartdata.com,+5591688888888,won,2025-11-26 15:40:00,Contrato assinado para suporte premium.,8f386675-687b-5ed5-b379-88b6a37bd355
+31,Vision Solutions,Caio Mendes,caio.mendes@visionsolutions.com,+5501677777777,lost,2025-11-19 12:15:00,Cliente não respondeu follow-up.,cdf93091-6603-508d-894e-e10e50cb3c64
+32,Quantumcorp,Letícia Rocha,leticia.rocha@quantumcorp.com,+5511666666666,prospect,2025-11-22 09:30:00,Primeiro contato realizado via e-mail.,918b7ead-3164-5ba3-8655-f6857175549e
+33,Nextbridge,Victor Santos,victor.santos@nextbridge.com,+5521655555555,won,2025-11-25 14:10:00,Contrato fechado para suporte avançado.,e259292f-ab8c-5442-94d3-cf4380aef0ab
+34,Techdata,Ana Paula Souza,ana.paula.souza@techdata.com,+5531644444444,lost,2025-11-18 16:45:00,Cliente optou por concorrente.,c83e272e-aeb7-5330-af27-e4105590ac0e
+35,Inovabridge,Bruno Carvalho,bruno.carvalho@inovabridge.com,+5541633333333,prospect,2025-11-20 11:00:00,Agendada reunião de apresentação.,a8c28cea-a2ed-5dc5-bf2f-07467c8e5056
+36,Dataworks,Fernanda Almeida,fernanda.almeida@dataworks.com,+5551622222222,negotiating,2025-11-23 13:50:00,Cliente solicitou integração com CRM.,7b3bf4bd-1c5a-5507-8e1c-14b447520de4
+37,Smartworks,Guilherme Santos,guilherme.santos@smartworks.com,+5561611111111,won,2025-11-26 15:40:00,Contrato assinado para suporte premium.,d2d4e2fd-03d2-5576-a72b-59a7f783b0f2
+38,Visiontech,Marcela Ferreira,marcela.ferreira@visiontech.com,+5571600000000,lost,2025-11-19 12:15:00,Cliente não respondeu follow-up.,7e28a992-503e-5bc3-9a17-a2e11cd56b8a
+39,Quantumsoft,João Silva,joao.silva@quantumsoft.com,+5581588888888,prospect,2025-11-22 09:30:00,Primeiro contato realizado via telefone.,66bb574f-1f64-5206-8f0e-46b6c70ec9ae
+40,Nextsoft,Rafael Almeida,rafael.almeida@nextsoft.com,+5591577777777,won,2025-11-25 14:10:00,Contrato fechado para suporte avançado.,d6252d9d-df3c-5b81-ac78-033fbd198e6f
+41,Techcorp,Mariana Souza,mariana.souza@techcorp.com,+5501566666666,lost,2025-11-18 16:45:00,Cliente optou por concorrente.,15221495-82fe-5acd-94b2-27889138dfda
+42,Inovadata,Lucas Ribeiro,lucas.ribeiro@inovadata.com,+5511555555555,prospect,2025-11-20 11:00:00,Agendada reunião de apresentação.,59c41747-04b8-5055-9d82-55b691cd8890
+43,Datatech,Aline Gomes,aline.gomes@datatech.com,+5521544444444,negotiating,2025-11-23 13:50:00,Cliente solicitou integração com CRM.,60abfee4-90fc-5c55-8c1d-f4394cc6bd0c
+44,Cloudsolutions,Pedro Fernandes,pedro.fernandes@cloudsolutions.com,+5531533333333,won,2025-11-26 15:40:00,Contrato assinado para suporte premium.,b2c467e5-fca3-55e9-b7b8-cea840826b33
+45,Smartbridge,Carla Silva,carla.silva@smartbridge.com,+5541522222222,lost,2025-11-19 12:15:00,Cliente não respondeu follow-up.,4f86d7ed-68d2-505d-9e0a-fe869ca82cf2
+46,Visiondata,Tiago Oliveira,tiago.oliveira@visiondata.com,+5551511111111,prospect,2025-11-22 09:30:00,Primeiro contato realizado via e-mail.,ab47cf9f-314a-5415-bae5-720dc1a5ecf1
+47,Quantum Solutions,Juliana Mendes,juliana.mendes@quantumsolutions.com,+5561500000000,won,2025-11-25 14:10:00,Contrato fechado para suporte avançado.,8e706490-7727-57d7-b1ce-ac13120478ef
+48,Nexttech,Fernando Costa,fernando.costa@nexttech.com,+5571488888888,lost,2025-11-18 16:45:00,Cliente optou por concorrente.,139a0a42-2085-5db8-9dba-eaa786da6dbb
+49,Datasoft,Marina Ribeiro,marina.ribeiro@datasoft.com,+5581477777777,prospect,2025-11-20 11:00:00,Agendada reunião de apresentação.,995d9a7d-a1c7-52ab-b300-721ae01fcd8d
+50,Cloudtech,Andressa Lima,andressa.lima@cloudtech.com,+5591466666666,negotiating,2025-11-23 13:50:00,Cliente solicitou integração com CRM.,4817b0e2-45cd-5c59-8d7b-753d96debcd1

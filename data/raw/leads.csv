@@ -1,0 +1,51 @@
+id,cliente,contato,email,telefone,status,ultima_interacao,notas
+1,Tech Solutions Ltda,Carlos Mendes,carlos.mendes@techsolutions.com,+55 47 99999-1234,Em negociação,2025-11-27T11:45:00,Cliente interessado em integração com API BuddyTech.
+2,InovaCorp,Fernanda Lima,fernanda.lima@inovacorp.com,+55 11 98888-5678,Fechado,2025-11-29T15:20:00,Contrato assinado para suporte premium.
+3,AlphaTech,João Almeida,joao.almeida@alphatech.com,+55 21 97777-1111,Prospect,2025-11-20T09:30:00,Primeiro contato realizado via e-mail.
+4,GlobalSoft,Ana Martins,ana.martins@globalsoft.com,+55 31 96666-2222,Em negociação,2025-11-22T14:10:00,Cliente pediu proposta detalhada.
+5,NextGen Solutions,Pedro Santos,pedro.santos@nextgen.com,+55 41 95555-3333,Perdido,2025-11-18T16:45:00,Cliente optou por concorrente.
+6,DataWorks,Mariana Costa,mariana.costa@dataworks.com,+55 51 94444-4444,Fechado,2025-11-25T11:00:00,Contrato fechado para suporte avançado.
+7,CloudBridge,Ricardo Silva,ricardo.silva@cloudbridge.com,+55 61 93333-5555,Prospect,2025-11-19T10:20:00,Agendada reunião de apresentação.
+8,SmartCorp,Beatriz Rocha,beatriz.rocha@smartcorp.com,+55 71 92222-6666,Em negociação,2025-11-23T13:50:00,Cliente solicitou integração com CRM.
+9,VisionTech,Lucas Pereira,lucas.pereira@visiontech.com,+55 81 91111-7777,Fechado,2025-11-26T15:40:00,Contrato assinado para suporte premium.
+10,QuantumSoft,Sofia Lima,sofia.lima@quantumsoft.com,+55 91 90000-8888,Perdido,2025-11-17T12:15:00,Cliente não respondeu follow-up.
+11,NextWave Solutions,Marcos Vinicius,marcos.vinicius@nextwavesolutions.com,+55 101 89999-9999,Prospect,2025-11-21T09:30:00,Primeiro contato realizado via telefone.
+12,TechNova,Laura Fernandes,laura.fernandes@technova.com,+55 111 88888-7777,Fechado,2025-11-24T14:10:00,Contrato fechado para suporte avançado.
+13,InovaTech,Bruno Gomes,bruno.gomes@inovatech.com,+55 121 87777-6666,Perdido,2025-11-16T16:45:00,Cliente optou por concorrente.
+14,DataSys,Carla Dias,carla.dias@datasys.com,+55 131 86666-5555,Prospect,2025-11-22T11:00:00,Agendada reunião de apresentação.
+15,CloudSoft,Guilherme Almeida,guilherme.almeida@cloudsoft.com,+55 141 85555-4444,Em negociação,2025-11-25T13:50:00,Cliente solicitou integração com CRM.
+16,SmartTech,Isabela Nunes,isabela.nunes@smarttech.com,+55 151 84444-3333,Fechado,2025-11-27T15:40:00,Contrato assinado para suporte premium.
+17,VisionCorp,Daniela Ribeiro,daniela.ribeiro@visioncorp.com,+55 161 83333-2222,Perdido,2025-11-18T12:15:00,Cliente não respondeu follow-up.
+18,Quantum Solutions,Felipe Barros,felipe.barros@quantumsolutions.com,+55 171 82222-1111,Prospect,2025-11-20T09:30:00,Primeiro contato realizado via e-mail.
+19,NextTech,Aline Souza,aline.souza@nexttech.com,+55 181 81111-0000,Fechado,2025-11-23T14:10:00,Contrato fechado para suporte avançado.
+20,DataSoft,Guilherme Oliveira,guilherme.oliveira@datasoft.com,+55 191 79999-9999,Perdido,2025-11-17T16:45:00,Cliente optou por concorrente.
+21,CloudWorks,Mariana Ferreira,mariana.ferreira@cloudworks.com,+55 201 78888-8888,Prospect,2025-11-21T11:00:00,Agendada reunião de apresentação.
+22,Smart Solutions,Thiago Cardoso,thiago.cardoso@smartsolutions.com,+55 211 77777-7777,Em negociação,2025-11-24T13:50:00,Cliente solicitou integração com CRM.
+23,VisionData,Patrícia Gomes,patricia.gomes@visiondata.com,+55 221 76666-6666,Fechado,2025-11-26T15:40:00,Contrato assinado para suporte premium.
+24,QuantumTech,Rafael Santos,rafael.santos@quantumtech.com,+55 231 75555-5555,Perdido,2025-11-19T12:15:00,Cliente não respondeu follow-up.
+25,NextData,Juliana Almeida,juliana.almeida@nextdata.com,+55 241 74444-4444,Prospect,2025-11-22T09:30:00,Primeiro contato realizado via telefone.
+26,TechBridge,André Silva,andre.silva@techbridge.com,+55 251 73333-3333,Fechado,2025-11-25T14:10:00,Contrato fechado para suporte avançado.
+27,Inova Solutions,Renata Costa,renata.costa@inovasolutions.com,+55 261 72222-2222,Perdido,2025-11-18T16:45:00,Cliente optou por concorrente.
+28,DataBridge,Fábio Ribeiro,fabio.ribeiro@databridge.com,+55 271 71111-1111,Prospect,2025-11-20T11:00:00,Agendada reunião de apresentação.
+29,CloudNova,Sandra Lima,sandra.lima@cloudnova.com,+55 281 70000-0000,Em negociação,2025-11-23T13:50:00,Cliente solicitou integração com CRM.
+30,SmartData,Bruna Fernandes,bruna.fernandes@smartdata.com,+55 291 68888-8888,Fechado,2025-11-26T15:40:00,Contrato assinado para suporte premium.
+31,Vision Solutions,Caio Mendes,caio.mendes@visionsolutions.com,+55 301 67777-7777,Perdido,2025-11-19T12:15:00,Cliente não respondeu follow-up.
+32,QuantumCorp,Letícia Rocha,leticia.rocha@quantumcorp.com,+55 311 66666-6666,Prospect,2025-11-22T09:30:00,Primeiro contato realizado via e-mail.
+33,NextBridge,Victor Santos,victor.santos@nextbridge.com,+55 321 65555-5555,Fechado,2025-11-25T14:10:00,Contrato fechado para suporte avançado.
+34,TechData,Ana Paula Souza,ana.paula.souza@techdata.com,+55 331 64444-4444,Perdido,2025-11-18T16:45:00,Cliente optou por concorrente.
+35,InovaBridge,Bruno Carvalho,bruno.carvalho@inovabridge.com,+55 341 63333-3333,Prospect,2025-11-20T11:00:00,Agendada reunião de apresentação.
+36,DataWorks,Fernanda Almeida,fernanda.almeida@dataworks.com,+55 351 62222-2222,Em negociação,2025-11-23T13:50:00,Cliente solicitou integração com CRM.
+37,SmartWorks,Guilherme Santos,guilherme.santos@smartworks.com,+55 361 61111-1111,Fechado,2025-11-26T15:40:00,Contrato assinado para suporte premium.
+38,VisionTech,Marcela Ferreira,marcela.ferreira@visiontech.com,+55 371 60000-0000,Perdido,2025-11-19T12:15:00,Cliente não respondeu follow-up.
+39,QuantumSoft,João Silva,joao.silva@quantumsoft.com,+55 381 58888-8888,Prospect,2025-11-22T09:30:00,Primeiro contato realizado via telefone.
+40,NextSoft,Rafael Almeida,rafael.almeida@nextsoft.com,+55 391 57777-7777,Fechado,2025-11-25T14:10:00,Contrato fechado para suporte avançado.
+41,TechCorp,Mariana Souza,mariana.souza@techcorp.com,+55 401 56666-6666,Perdido,2025-11-18T16:45:00,Cliente optou por concorrente.
+42,InovaData,Lucas Ribeiro,lucas.ribeiro@inovadata.com,+55 411 55555-5555,Prospect,2025-11-20T11:00:00,Agendada reunião de apresentação.
+43,DataTech,Aline Gomes,aline.gomes@datatech.com,+55 421 54444-4444,Em negociação,2025-11-23T13:50:00,Cliente solicitou integração com CRM.
+44,CloudSolutions,Pedro Fernandes,pedro.fernandes@cloudsolutions.com,+55 431 53333-3333,Fechado,2025-11-26T15:40:00,Contrato assinado para suporte premium.
+45,SmartBridge,Carla Silva,carla.silva@smartbridge.com,+55 441 52222-2222,Perdido,2025-11-19T12:15:00,Cliente não respondeu follow-up.
+46,VisionData,Tiago Oliveira,tiago.oliveira@visiondata.com,+55 451 51111-1111,Prospect,2025-11-22T09:30:00,Primeiro contato realizado via e-mail.
+47,Quantum Solutions,Juliana Mendes,juliana.mendes@quantumsolutions.com,+55 461 50000-0000,Fechado,2025-11-25T14:10:00,Contrato fechado para suporte avançado.
+48,NextTech,Fernando Costa,fernando.costa@nexttech.com,+55 471 48888-8888,Perdido,2025-11-18T16:45:00,Cliente optou por concorrente.
+49,DataSoft,Marina Ribeiro,marina.ribeiro@datasoft.com,+55 481 47777-7777,Prospect,2025-11-20T11:00:00,Agendada reunião de apresentação.
+50,CloudTech,Andressa Lima,andressa.lima@cloudtech.com,+55 491 46666-6666,Em negociação,2025-11-23T13:50:00,Cliente solicitou integração com CRM.
