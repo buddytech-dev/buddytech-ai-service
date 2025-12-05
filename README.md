@@ -24,23 +24,26 @@ Este serviço atua como o "cérebro" de análise de vendas, utilizando o **Googl
 ```bash
 git clone [https://github.com/seu-usuario/sales-buddy-ai.git](https://github.com/seu-usuario/sales-buddy-ai.git)
 cd sales-buddy-ai
-2. Criar ambiente virtual (Recomendado)Bashpython -m venv venv
+```
+### 2. Criar ambiente virtual (Recomendado)Bashpython -m venv venv
 # Windows
 venv\Scripts\activate
 # Linux/Mac
 source venv/bin/activate
-3. Instalar dependênciasCrie um arquivo requirements.txt com o conteúdo abaixo ou instale manualmente:Plaintextfastapi
+
+### 3. Instalar dependênciasCrie um arquivo requirements.txt com o conteúdo abaixo ou instale manualmente:Plaintextfastapi
 uvicorn
 google-generativeai
 python-dotenv
 pydantic
 Instale rodando:Bashpip install -r requirements.txt
-```
-4. Configurar Variáveis de AmbienteCrie um arquivo .env na raiz do projeto e adicione sua chave da API do Gemini (não compartilhe este arquivo!):Snippet de códigoGEMINI_API_KEY=sua_chave_nova_aqui
+
+### 4. Configurar Variáveis de AmbienteCrie um arquivo .env na raiz do projeto e adicione sua chave da API do Gemini (não compartilhe este arquivo!):Snippet de códigoGEMINI_API_KEY=sua_chave_nova_aqui
 ▶️ Como RodarPara iniciar o servidor de desenvolvimento na porta 8000:Bashpython main.py
 # OU via uvicorn diretamente (com hot-reload)
 uvicorn main:app --reload
-O serviço estará rodando em: http://localhost:8000📚 Documentação da APIO FastAPI gera documentação automática. Com o serviço rodando, acesse:Swagger UI: http://localhost:8000/docsReDoc: http://localhost:8000/redocEndpoint: /analyze [POST]Este é o endpoint principal consumido pelo backend C#.Request Body (Exemplo):JSON{
+O serviço estará rodando em: http://localhost:8000📚 Documentação da APIO FastAPI gera documentação automática. Com o serviço rodando, acesse:Swagger UI: http://localhost:8000/docsReDoc: http://localhost:8000/redocEndpoint: /analyze [POST]
+Este é o endpoint principal consumido pelo backend C#.Request Body (Exemplo):JSON{
   "industry": "Tecnologia",
   "revenue_range": 500000,
   "current_stage": "Negociação",
