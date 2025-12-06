@@ -1,0 +1,24 @@
+lead_id,lead_score,sentiment,final_score,next_best_action
+1.0,0.994,neutral,0.846,Avançar para proposta/comercial
+3.0,0.077,neutral,0.204,Nutrir com conteúdo ou descartar lead
+4.0,0.473,neutral,0.481,Nutrir com conteúdo ou descartar lead
+7.0,0.078,neutral,0.205,Nutrir com conteúdo ou descartar lead
+8.0,0.889,neutral,0.772,Avançar para proposta/comercial
+11.0,0.137,positive,0.396,Nutrir com conteúdo ou descartar lead
+14.0,0.611,neutral,0.578,Agendar reunião de follow-up
+15.0,0.985,positive,0.99,Avançar para proposta/comercial
+18.0,0.024,neutral,0.167,Nutrir com conteúdo ou descartar lead
+21.0,0.249,positive,0.475,Nutrir com conteúdo ou descartar lead
+22.0,0.886,positive,0.92,Avançar para proposta/comercial
+25.0,0.123,neutral,0.236,Nutrir com conteúdo ou descartar lead
+28.0,0.036,positive,0.325,Nutrir com conteúdo ou descartar lead
+29.0,0.838,positive,0.886,Avançar para proposta/comercial
+32.0,0.382,neutral,0.417,Nutrir com conteúdo ou descartar lead
+35.0,0.03,neutral,0.171,Nutrir com conteúdo ou descartar lead
+36.0,0.478,neutral,0.485,Nutrir com conteúdo ou descartar lead
+39.0,0.115,neutral,0.23,Nutrir com conteúdo ou descartar lead
+42.0,0.058,neutral,0.19,Nutrir com conteúdo ou descartar lead
+43.0,0.873,neutral,0.761,Avançar para proposta/comercial
+46.0,0.102,neutral,0.221,Nutrir com conteúdo ou descartar lead
+49.0,0.016,neutral,0.161,Nutrir com conteúdo ou descartar lead
+50.0,0.751,positive,0.826,Avançar para proposta/comercial
